@@ -23,4 +23,7 @@
 **ap_done**
 ![Configuration write](https://github.com/edwardchang9/2023-FALL-NYCU-SOC-LAB3-FIR/blob/main/ap_done.png)
 
-**# of clock cycles from ap_start to ap_done = **
+Number of clock cycles from ap_start to ap_done = (78875 - 745) / 10 = 7813 cycles
+
+**Xn stream-in, and Yn stream-out**
+![Configuration write](https://github.com/edwardchang9/2023-FALL-NYCU-SOC-LAB3-FIR/blob/main/Xn_stream-in_Yn_stream-out.png)
